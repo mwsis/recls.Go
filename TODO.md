@@ -10,6 +10,10 @@ recls for Go
 
 ## Section-1
 
+- [ ] search parameters struct, supporting Builder pattern;
+- [ ] supported links - what happens on windows;
+- [ ] supported devices (etc.);
+
 T.B.C.
 
 
